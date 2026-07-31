@@ -1,0 +1,10 @@
+1. Unzip this package.
+2. Open the unzipped folder.
+3. Select ALL files and the assets folder.
+4. In GitHub, choose Add file > Upload files.
+5. Drag everything into the repository root.
+6. Confirm index.html and assets appear immediately at the top level.
+7. Click Commit changes.
+8. Cloudflare Pages should redeploy automatically.
+
+Do not upload the ZIP itself.
